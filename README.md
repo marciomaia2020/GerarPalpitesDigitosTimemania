@@ -151,15 +151,15 @@ Time do coração obrigatório - bonus independente
 Dupla chance - ganhe pelos números OU pelo time
 AGORA TEMOS 10 MODALIDADES COM CONTADORES DESTACADOS! ⚽🚀
 
-✅ Mega Sena - 6 números (01-60) + contador pares/ímpares
-✅ Dia de Sorte - 7 números (01-31) + mês + contador pares/ímpares
-✅ Dupla Sena - 6 números (01-50) + dupla chance + contador pares/ímpares
-✅ Loteria Federal - 6 dígitos (000000-999999) + contador dígitos pares/ímpares
-✅ Loteca - 14 resultados (1/X/2) + contador distribuição de resultados
-✅ Quina - 5 números (01-80) + contador pares/ímpares + controle de sorteados
-✅ Lotofácil - 15 números (01-25) + contador pares/ímpares + controle de sorteados
-✅ Lotomania - 50 números (00-99) + contador pares/ímpares + controle de sorteados
-✅ Super Sete - 7 colunas (0-9) + contador pares/ímpares + controle por coluna
-✅ Timemania - 10 números (01-80) + time + contador pares/ímpares + controle de sorteados
+✅ 	Mega Sena - 6 números (01-60) + contador pares/ímpares
+✅ 	Dia de Sorte - 7 números (01-31) + mês + contador pares/ímpares
+✅ 	Dupla Sena - 6 números (01-50) + dupla chance + contador pares/ímpares
+✅ 	Loteria Federal - 6 dígitos (000000-999999) + contador dígitos pares/ímpares
+✅ 	Loteca - 14 resultados (1/X/2) + contador distribuição de resultados
+✅ 	Quina - 5 números (01-80) + contador pares/ímpares + controle de sorteados
+✅ 	Lotofácil - 15 números (01-25) + contador pares/ímpares + controle de sorteados
+✅ 	Lotomania - 50 números (00-99) + contador pares/ímpares + controle de sorteados
+✅ 	Super Sete - 7 colunas (0-9) + contador pares/ímpares + controle por coluna
+✅ 	Timemania - 10 números (01-80) + time + contador pares/ímpares + controle de sorteados
 
 Falta apenas +Milionária para completar todas as modalidades principais! Quer implementar agora? 🎲
